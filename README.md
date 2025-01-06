@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Luis C Fagundes</h1>
-<p>a dedicated Data Analyst Student passionate about turning data into actionable insights and solving real-world problems.</p>
+<p>a dedicated Data Analyst/Data Science Student passionate about turning data into actionable insights and solving real-world problems.</p>
 <h2>🌟 What I Do</h2>
 <ul>
 <li>📊 Analyze datasets to uncover trends and patterns.</li>
